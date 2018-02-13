@@ -1,3 +1,4 @@
 # hello-world
 First Repository for Hello World
-These are commit changes to my first Hello World file.
+
+Removed a line and added this one.
